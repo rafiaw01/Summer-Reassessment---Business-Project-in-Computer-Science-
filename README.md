@@ -8,7 +8,7 @@ Greetings Reader :
 
 The following is a Business Dashboard built using Streamlit Python Library and  uses Kaggle Dataset 
 
-To run the project make sure the project.py is in the same folder as the CSV File . 
+To run the project make sure the project.py is in the same folder as the Sales.CSV File . 
 Once that has been established inorder to succesfully run the file then use the following line of code in the terminal to start the project. 
 
       streamlit run project.py
