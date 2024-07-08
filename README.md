@@ -18,6 +18,5 @@ Once the project is initiated a web page server will start on a local hot most c
 
 The kaggle CSV file is available on the following link :
 
-https://www.kaggle.com/datasets/prepinstaprime/europe-bike-store-sales![image](https://github.com/rafiaw01/Summer-Reassessment---Business-Project-in-Computer-Science-/assets/127777886/f738e373-cd7b-4fd1-90c0-6c6ee5c79fa5)
-
+https://www.kaggle.com/datasets/prepinstaprime/europe-bike-store-sales
 
